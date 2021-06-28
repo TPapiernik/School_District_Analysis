@@ -28,7 +28,7 @@ share/python-wheels/
 MANIFEST
 
 # USER Section
-# .DS_Store
+# .DS_Store and Vim Hidden Files
 .DS_Store
 *.un~
 *.md~
