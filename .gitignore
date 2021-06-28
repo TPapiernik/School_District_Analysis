@@ -30,8 +30,8 @@ MANIFEST
 # USER Section
 # .DS_Store
 .DS_Store
-.un~
-.md~
+*.un~
+*.md~
 .gitignore~
 
 # PyInstaller
