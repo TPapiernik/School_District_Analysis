@@ -33,6 +33,7 @@ MANIFEST
 *.un~
 *.md~
 .gitignore~
+..gitignore.un~
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
